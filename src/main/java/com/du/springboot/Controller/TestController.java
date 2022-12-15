@@ -11,5 +11,7 @@ public class TestController {
     @GetMapping()
     public void test(){
         System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
     }
 }
